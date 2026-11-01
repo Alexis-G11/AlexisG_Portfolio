@@ -1,0 +1,6 @@
+[functions.health]
+verify_jwt = false
+[functions.whatsapp-contact]
+verify_jwt = false
+[functions.whatsapp-webhook]
+verify_jwt = false
